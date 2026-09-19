@@ -54,9 +54,9 @@ The table below compares leading commercial and managed model serving platforms,
 
 ## 🔓 Open-Source GitHub Projects
 
-Model serving benefits from an exceptionally strong open-source foundation. Below is a comprehensive list of top open-source model serving frameworks and inference engines, sorted by **GitHub Star Count** in descending order:
+Model serving benefits from an exceptionally strong open-source foundation. Below is a comprehensive list of top open-source model serving frameworks and inference engines, sorted by **GitHub Stars_Count** in descending order:
 
-| 🏆 Rank | ⭐ Repository & Star Badge | 📝 Description |
+| 🏆 Rank | ⭐ Repository & Stars_Badge | 📝 Description |
 | :---: | :--- | :--- |
 | 1 | [![Ollama Stars](https://img.shields.io/github/stars/ollama/ollama?style=social&color=white)](https://github.com/ollama/ollama/stargazers) **[Ollama](https://github.com/ollama/ollama)** | Lightweight, cross-platform framework to get up and running with Llama 3, Mistral, Gemma, and other LLMs locally or on server endpoints. |
 | 2 | [![vLLM Stars](https://img.shields.io/github/stars/vllm-project/vllm?style=social&color=white)](https://github.com/vllm-project/vllm/stargazers) **[vLLM](https://github.com/vllm-project/vllm)** | High-throughput and memory-efficient LLM serving engine powered by PagedAttention, compatible with OpenAI API standards. |
